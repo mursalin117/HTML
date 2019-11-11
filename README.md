@@ -1,1 +1,1 @@
-# HTML
+This folder contains all html files
